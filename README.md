@@ -1,5 +1,5 @@
 # YouTube subscriber counter
-Omar Čelik & Benjamin Emirhafizović\
+Omar Čelik & Benjamin Emirhafizović @wolfram9\
 Elektrotehnički fakultet Sarajevo\
 Ugradbeni sistemi
 
