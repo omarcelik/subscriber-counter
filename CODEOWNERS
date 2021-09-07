@@ -1,2 +1,3 @@
 *.txt @wolfram9
-* @omarcelik
+*.py @omarcelik
+*.docx @omarcelik
