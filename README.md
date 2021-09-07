@@ -1,5 +1,5 @@
 # YouTube subscriber counter
-Elektrotehnički fakultet Sarajevo //
+Elektrotehnički fakultet Sarajevo\
 Ugradbeni sistemi
 
 # Primjer rada
