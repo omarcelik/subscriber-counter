@@ -1,8 +1,7 @@
-//
 // Ugradbeni sistemi
 // Projekat: YouTube subscriber counter
 //
-// Benjamin Emirhafizović, Omar Čelik
+// Benjamin Emirhafizović
 //
 // juni 2020
 
